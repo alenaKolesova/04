@@ -12,11 +12,11 @@ div {
 .header {
     justify-content: space-between; 
     background-color: rgb(204, 237, 200);
-    top: 0; 
+    /* top: 0; 
     position: fixed; 
     padding-top: 1%; 
     height: auto;
-    width: 100%; 
+    width: 100%;  */
 }
 
 .search {
@@ -24,7 +24,7 @@ div {
 }
 
 .spacer{
-    height: 15vh;
+    height: 5vh;
 }
 
 .shop{
